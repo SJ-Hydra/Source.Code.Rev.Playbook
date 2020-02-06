@@ -1,2 +1,25 @@
-Example XSS:
+
+
+Untrusted data field validation, always use a white list and NOT a black list. 
+
+
+Example XSS Vulnerability:
+
+package inc.insecure
+
+
+
+Solution
+
+
+
+
+
+
+
+
+
+
+
+
 
