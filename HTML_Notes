@@ -1,0 +1,29 @@
+<-- HTML Elements and Tags -->
+
+<div> - Division, container element. Two spaces are typical for divisions for readibility purposes. These elements can be organized through, <div id=name>
+<p> - Paragraph
+<span> -
+<em> - Emphasized text, italic
+<strong> - Important text, bold
+<br> - Line breaks
+<ul> - Unordered list 
+<li> - List item
+<ol> - Ordered list
+
+<img src="image-location.jpg" /> - Image, self closing tag
+<img src="#" alt="text" /> - Alt tag, alternative to picture
+
+<video src="myvideo.mp4" width="320" height="240" controls> - Video tag
+
+<!DOCTYPE html> - Document declaration, always include as first line in html files.
+<html> - HTML code
+<head> - Contains page metadata
+<title> - title of the page.
+<a> - anchor 
+  <a href="https://127.0.0.1/">
+  <a href="https://127.0.0.1/" target="_blank"> - Open new page in a new window.
+  <a href="./page.html"> Contact </a> - Open a page on same webserver.
+
+<tag id="top"> - ID = Section reference
+  <a href="#top"> Text </a>
+
