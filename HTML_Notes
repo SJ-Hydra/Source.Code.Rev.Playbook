@@ -27,3 +27,14 @@
 <tag id="top"> - ID = Section reference
   <a href="#top"> Text </a>
 
+<table>
+<table border="1">
+<tr> - Table Row
+<th> - Table Heading
+  <th scope="col"> Name </th>
+  <th scope="row"> Name </th>
+<td> - Table Data
+
+<form>
+  <form action="./example.html" method="POST">
+  <input type="text" name="Username">
