@@ -38,3 +38,6 @@
 <form>
   <form action="./example.html" method="POST">
   <input type="text" name="Username">
+  
+  
+pattern="[a-zA-Z0-9]+" - only permissible characters.
