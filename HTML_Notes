@@ -41,3 +41,7 @@
   
   
 pattern="[a-zA-Z0-9]+" - only permissible characters.
+
+<link rel="stylesheet" href="yourcssfilehere">
+
+/* Comments in CSS */
