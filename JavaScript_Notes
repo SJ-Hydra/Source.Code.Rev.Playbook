@@ -4,3 +4,6 @@
 
 /* Multiline
 Comment */
+
+// Built-in Objects
+console.log()
