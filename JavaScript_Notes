@@ -7,3 +7,7 @@ Comment */
 
 // Built-in Objects
 console.log()
+
+// Variables
+var name = 'value';
+let name = 'value';
